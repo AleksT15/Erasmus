@@ -1,1 +1,2 @@
-"Hello Aleksandra" 
+"Hello Aleksandra"
+"My hobby is drawing" 
